@@ -15,4 +15,4 @@ The bar graph displays the top ten bacterial cultures found and the gauge chart 
 
 <img width="1190" alt="Screen Shot 2022-09-08 at 10 13 25 PM" src="https://user-images.githubusercontent.com/104762216/189258298-1921be1f-500e-4ab1-ad0d-b835b75a84ee.png">
 
-When a sampple is selected from the dropdown menu, the interactive charts update showing the information of the participant selected.
+When a sample is selected from the dropdown menu, the interactive charts update showing the information of the participant selected.
